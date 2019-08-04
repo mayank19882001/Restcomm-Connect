@@ -2,6 +2,9 @@
 export RESTCOMM_HOME=/home/mayank/restcomm/Restcomm-Connect
 export MAJOR_VERSION_NUMBER=7.6
 export BUILD_NUMBER=0
+export ANT_OPTS=-Dhttps.protocols=TLSv1.1,TLSv1.2
+
+
 
 export WORKSPACE=$RESTCOMM_HOME
 mkdir $WORKSPACE/dependencies
