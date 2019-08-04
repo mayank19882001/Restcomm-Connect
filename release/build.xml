@@ -157,6 +157,7 @@
     <exec executable="wget" failonerror="true">
       <arg value="${restcomm-rvd.download.url}"/>
     </exec>
+    <rename src="${base.dir}/restcomm-rvd.war" dest="${base.dir}/visual-designer.war"/>
     <move file="${base.dir}/visual-designer.war" todir="${configuration.directory}"/>
   </target>
 
