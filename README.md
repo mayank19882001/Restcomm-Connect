@@ -5,4 +5,4 @@ https://github.com/mayank19882001/Restcomm-Connect/blob/master/restcomm/restcomm
 
 
 Running instructions here :
-https://github.com/RestComm/Restcomm-Connect/blob/master/restcomm/restcomm.docs/sources-asciidoc/src/main/asciidoc/configuration/Starting%20Restcomm-Connect.adoc#configure-restcomm-iP-information-and-text-to-speech
+https://github.com/mayank19882001/Restcomm-Connect/blob/master/restcomm/restcomm.docs/sources-asciidoc/src/main/asciidoc/configuration/Starting%20Restcomm-Connect.adoc#configure-restcomm-iP-information-and-text-to-speech
