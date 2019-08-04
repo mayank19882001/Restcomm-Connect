@@ -13,4 +13,6 @@ You may encounter issues like Language.json not found and may end up having a UI
 To fix this manually dive into the RVD war exploded folder and edit app.js 
 
 
+USES JAVA 1.7 for both java/javac !
+
 
